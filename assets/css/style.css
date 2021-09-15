@@ -1698,3 +1698,9 @@ footer .credits {
 footer .credits a {
   color: #fff;
 }
+
+
+/* Added CSS */
+.row {
+  margin-right: 0px !important;
+}
